@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Harsh Dubey"
-  avatar           : "/images/myprofile.jpg"
+  avatar           : "myprofile.jpg"
   bio              : "MS Computer Science at New York University"
   location         : "New York"
   employer         :
